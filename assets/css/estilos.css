@@ -21,6 +21,10 @@ body {
   background-position: center;
 }
 
+.card:hover {
+  transform: scale(1.1);
+}
+
 /* Contacto */
 
 #Contacto form label {
@@ -39,6 +43,3 @@ body {
 
 }
 
-.card:hover {
-  transform: scale(1.1);
-}
