@@ -2,6 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Navbar */
+.bg-black {
+  background-color: #000 !important; /* Establecemos el fondo en negro */
+}
+
 /* Hero Section */
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -28,7 +33,7 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 800px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
