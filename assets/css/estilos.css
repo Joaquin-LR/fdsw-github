@@ -56,6 +56,10 @@ body {
 
 /* Contacto */
 
+#Contacto {
+  background-color: rgba(255, 253, 232, 0.711);
+}
+
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
