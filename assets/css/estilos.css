@@ -11,6 +11,20 @@ body {
   background-position: left;
 }
 
+.instagram {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.instagram h2 {
+  font-size: 1em;
+  padding: 0 20px 0 0;
+}
+
+.instagram a {
+  transform: translate(0, -20px);
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
