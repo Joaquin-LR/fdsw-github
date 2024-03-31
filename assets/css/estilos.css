@@ -3,7 +3,6 @@ body {
 }
 
 /* Hero Section */
-
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
@@ -11,6 +10,7 @@ body {
   background-position: left;
 }
 
+/* Instagram en header en vez de footer para que sea aún más visible su contenido en RRSS */
 .instagram {
   display: flex;
   justify-content: flex-end;
